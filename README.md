@@ -1,3 +1,7 @@
+# Functionality of this App
+
+this is a chat app with having local data to create multiple chats for the user, user can send messages to any of his chat contacts. User have the access to delete any chat.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
