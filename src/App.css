@@ -19,8 +19,18 @@
     border-radius: 30px;
 }
 
+.createButton{
+  background-color: aqua;
+  width: 200px;
+  height: 15ox;
+}
+
 .single{
   background-color: gray;
+}
+
+.eachMessageReceive{
+    margin-left: 50px;
 }
 
 .eachMessage{
