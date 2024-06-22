@@ -1,6 +1,8 @@
 # Functionality of this App
 
-this is a chat app with having local data to create multiple chats for the user, user can send messages to any of his chat contacts. User have the access to delete any chat.
+this is a chat app with local data to create multiple chats for the user, user can send messages to any of his chat contacts. Users have access to delete any chat. Round one was focused on the bare minimum functionalities, and Round 2 was on improvements, adding a few more functionalities. 
+
+This was asked in the TypeFaceAI company interview. 
 
 # Getting Started with Create React App
 
